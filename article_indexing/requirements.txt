@@ -1,2 +1,0 @@
-jina[devel,framework,nlp]==0.5.5.*
-kaggle
